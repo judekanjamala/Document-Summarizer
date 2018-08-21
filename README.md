@@ -1,6 +1,6 @@
 # Document Summary
 
-- THe project was done as a part of the Paradigms of Programming COurse at IIT Palakkad under the guidance of
+- The project was done as a part of the Paradigms of Programming COurse at IIT Palakkad under the guidance of
 Prof. Mrinal Kanti Das.
 
 # Team Members
